@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2023-12-03T06:38:11.053Z",
-    "end": "2023-12-03T06:38:11.465Z",
-    "duration": 412
+    "start": "2023-12-20T01:19:08.093Z",
+    "end": "2023-12-20T01:19:09.223Z",
+    "duration": 1130
   },
   "tests": [
     {
@@ -59,7 +59,7 @@
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/djangostar/Development/code/phase-1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -68,7 +68,7 @@
       "title": "prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions prependCat(name) prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/djangostar/Development/code/phase-1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -77,7 +77,7 @@
       "title": "removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeLastCat() removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/djangostar/Development/code/phase-1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -86,7 +86,7 @@
       "title": "removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeFirstCat() removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/djangostar/Development/code/phase-1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -144,7 +144,7 @@
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/djangostar/Development/code/phase-1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -153,7 +153,7 @@
       "title": "prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions prependCat(name) prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/djangostar/Development/code/phase-1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -162,7 +162,7 @@
       "title": "removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeLastCat() removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/djangostar/Development/code/phase-1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -171,7 +171,7 @@
       "title": "removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeFirstCat() removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/djangostar/Development/code/phase-1/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
